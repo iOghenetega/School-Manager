@@ -15,7 +15,7 @@
 
 <!-- Project Name -->
 <div align="center">
-  <h1>Ze School</h1>
+  <h1>School Manager</h1>
 </div>
 
 <div>
